@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: "Coming Soon", cursive;
+  font-size: 72px;
+  color: #5c33f6;
+}
